@@ -12,3 +12,5 @@ $ git push -u [origine] master # Pushing to remote repo
 
 # Setting and adding the SSH key
 https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/reviewing-your-ssh-keys
+
+Checking pushing to github
