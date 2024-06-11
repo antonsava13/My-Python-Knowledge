@@ -1,0 +1,14 @@
+$ git init
+$ git pull <url>
+$ git remote add [origin] <url> # Setting the remote depository
+$ git remote remove [name - origine] #Removes whatever was set for remote
+
+  # It is possible to set several origins for remote
+
+
+$ git remote -v # To see what is set for [remote]
+$ git remote set-url origin <url> # Change the URL
+$ git push -u [origine] master # Pushing to remote repo
+
+# Setting and adding the SSH key
+https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/reviewing-your-ssh-keys
