@@ -1,0 +1,19 @@
+The BigO
+
+Learn more about:
+    Amortised time
+
+Tipes of complexities:
+    - Time complexity
+    - Space complexity
+
+Complexities in desending order:  x!, 2^x, x^2, x*logx, x, logx
+
+Recursive algorithns time complexity: O(no_of_branches^depth) - more on page 45(56)
+
+
+
+Prgramming principles:
+    https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/
+
+    - KISS Keep it Simple, Stupid

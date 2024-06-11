@@ -1,0 +1,8 @@
+The DS (Data Structures) to learn:
+    - Linked lists
+    - Trees, Tries, Graphts
+    - Stacks and Queues
+    - Heaps
+    - Vector / Arrays
+    - Hash tables
+

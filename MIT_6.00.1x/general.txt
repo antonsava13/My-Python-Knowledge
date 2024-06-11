@@ -1,0 +1,20 @@
+Declarative knowledge - the statement of fact
+Imperative knowledge - a recepi of "how to"
+
+Fixed program computer - old calcualtor
+Stored program computer - pc
+
+Basic machine Architecture:
+    - Memory: stores instructions and data
+    - Control untit: it has program counter - the mechanism that control what part of an instruction is to be sent to ALU
+    - ALU - Arithmetic Logic Unit - the thing that executes a portion of an instruction. It does very simple operations
+
+Validity of expressions:
+    - sintacticly valid - expressions that are put toghether according to teh rules of a language:
+        4*5, "hi"+3
+    - staricly simantlicly valid - there sintacticly valid expressions that have a meaning:
+        4*5 - both sintacticly and staric simantlicly valid
+        "hi"+3 - sintacticly valid but is not staricly simantlicly valid
+
+Guess and Check algorithms:
+    - Exhaustive enumeration

@@ -1,0 +1,8 @@
+Useful links:
+
+    1. Apple authentication on backend: https://blog.curtisherbert.com/so-theyve-signed-in-with-apple-now-what/ - hard to understand
+
+    2. Jason WEB Token (JWT):
+        https://www.rfc-editor.org/rfc/rfc7519 - spec
+        https://www.youtube.com/watch?v=mbsmsi7l3r4 - JWT Authentication Tutorial - Node.js
+        https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication - stackoverflow

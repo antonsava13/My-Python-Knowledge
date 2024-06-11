@@ -1,0 +1,17 @@
+Backlog:
+
+
+- Think about the structure of the project. Organise for lessons, conclusions (solid knowladge)
+- GitLab - recover or create new repository for this project
+- Setup TDD structure
+- setup linting, ets in VCode
+- Study the relevance of System Decigin and Archetecture
+- Python libraries
+- Algorithms: Quick sort, binary search,
+- Find O(n) for each famous algorithm
+- Functional programing vs Object Orientated
+- Study Authentication and Autorisation
+
+
+Project ideas:
+- App for arranging basketball games.
